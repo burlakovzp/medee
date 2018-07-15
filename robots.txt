@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /catalog
+Disallow: /catalog.loc
+
+Sitemap: http://medee.com.ua/mainsitemap.xml
